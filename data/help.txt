@@ -1,0 +1,25 @@
+>>>>> Help <<<<<
+
+Key Mappings:
+
+    # In main menu:
+        - Menu navigate up : 'Up arrow' or 'W'
+        - Menu navigate up : 'Down arrow' or 'S'
+        - Select : 'Enter'
+
+    # During game:
+        - Pause : 'R'
+        - Resume : Use key used for navigating the snake
+        - Return to main menu : 'Escape'
+
+
+    # Navigating the snake:
+        - Move up : 'Up arrow' or 'W'
+        - Move down : 'Down arrow' or 'S'
+        - Move left 'Left arrow' or 'A'
+        - Move right : 'Right arrow' or 'D'
+
+    # In help:
+        - Return to main menu : 'Backspace'
+
+Enjoy ;)
